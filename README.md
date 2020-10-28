@@ -1,5 +1,5 @@
 ### Hello there! 👋 
-<img src="https://user-images.githubusercontent.com/52279659/97475061-cb238180-1972-11eb-8e6c-3245f5c32b8a.png" width="100"/>
+<img src="https://user-images.githubusercontent.com/52279659/97478342-ccef4400-1976-11eb-827c-fecd8858dffd.png" width="100"/>
 I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into ML and DL.<br>
 
 ### Get in touch:
