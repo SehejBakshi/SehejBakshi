@@ -1,7 +1,7 @@
-### Hello there 👋
-I'm Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into ML and DL.
+### Hello there! 👋 ![86-860104_general-grievous-icon-png](https://user-images.githubusercontent.com/52279659/97475061-cb238180-1972-11eb-8e6c-3245f5c32b8a.png) 
+I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into ML and DL.
 
-### :email: Find me on:
+### Get in touch:
 
 <!--
 [<img align="left" alt="SehejBakshi" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
