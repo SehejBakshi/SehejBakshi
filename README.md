@@ -9,7 +9,7 @@ I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into M
 </p>
 <br>
 
-### 🧰 Programming Languages I use:
+### Programming Languages I use:
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">&nbsp;
@@ -53,7 +53,7 @@ I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into M
 </p>
 <br>
 
-### :trophy: My Github Stats:
+### My Github Stats:
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=SehejBakshi&count_private=false&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=SehejBakshi&count_private=false&show_icons=true&theme=tokyonight" />
