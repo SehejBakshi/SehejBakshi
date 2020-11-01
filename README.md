@@ -4,8 +4,8 @@ I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into M
 
 ### Get in touch:
 <p align="left">
-  <a href="https://www.linkedin.com/in/sehej-bakshi-35318a173/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" style="vertical-align:top; margin:4px"></a> &ensp;
- <a href="mailto:sehej.bakshi@yahoo.in"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.linkedin.com/in/sehej-bakshi-35318a173/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" style="vertical-align:top; margin:4px"></a> &ensp;
+ <a href="mailto:sehej.bakshi@yahoo.in"> <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
 <br>
 
