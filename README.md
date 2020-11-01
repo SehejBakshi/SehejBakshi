@@ -38,7 +38,7 @@ I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into M
   <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="100" height="40" style="vertical-align:top; margin:4px">&nbsp;
   <img src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4" alt="Nvidia GPU" height="40" style="vertical-align:top; margin:4px">&nbsp;
   <img src="https://avatars0.githubusercontent.com/u/33467679?s=200&v=4" alt="Google Colab" height="40" style="vertical-align:top; margin:4px">&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Python" height="40" style="vertical-align:top; margin:4px">&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook" height="40" style="vertical-align:top; margin:4px">&nbsp;
 </p>
 <br>
 
@@ -48,7 +48,7 @@ I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into M
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">&nbsp;
 </p>
 <br>
