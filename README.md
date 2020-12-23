@@ -53,7 +53,7 @@ I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into M
 </p>
 <br>
 
-<!--
+
 ### My Github Stats:
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=SehejBakshi&count_private=false&show_icons=true&theme=tokyonight">
@@ -63,7 +63,7 @@ I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into M
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=SehejBakshi&layout=compact&hide=php&theme=tokyonight" />
 </a>
 </div>
--->
+
 
 
 [linkedin]: https://www.linkedin.com/in/sehej-bakshi-35318a173/
