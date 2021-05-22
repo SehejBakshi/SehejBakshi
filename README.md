@@ -1,6 +1,6 @@
 ### Hello there! 👋
 <img src="https://user-images.githubusercontent.com/52279659/97478342-ccef4400-1976-11eb-827c-fecd8858dffd.png" width="100"/>
-I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into ML and DL.<br>
+I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into ML, DL.and Web Development.<br>
 
 ### Get in touch:
 <p align="left">
@@ -26,6 +26,7 @@ I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into M
   style="vertical-align:top; margin:4px">&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJS" height="40" style="vertical-align:top; margin:4px">&nbsp;
 </p>
 <br>
 
