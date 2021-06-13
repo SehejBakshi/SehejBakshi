@@ -1,13 +1,12 @@
 ### Hello there! 👋
 <img src="https://user-images.githubusercontent.com/52279659/97478342-ccef4400-1976-11eb-827c-fecd8858dffd.png" width="100"/>
-I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into ML, DL.and Web Development.<br>
+I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into ML, DL and Web Development.<br>
 
 ### Get in touch:
 <p align="left">
   <a href="https://www.linkedin.com/in/sehej-bakshi-35318a173/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" style="vertical-align:top; margin:4px"></a> &ensp;
  <a href="mailto:sehej.bakshi@yahoo.in"> <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
-<br>
 
 ### Programming Languages I use:
 <p align="left">
@@ -17,7 +16,6 @@ I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into M
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">&nbsp;
 </p>
-<br>
 
 ### Web Frameworks and Tools I use:
 <p align="left">
@@ -28,7 +26,6 @@ I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into M
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJS" height="40" style="vertical-align:top; margin:4px">&nbsp;
 </p>
-<br>
 
 ### ML Libraries, Frameworks and tools I use:
 <p align="left">
@@ -41,7 +38,6 @@ I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into M
   <img src="https://avatars0.githubusercontent.com/u/33467679?s=200&v=4" alt="Google Colab" height="40" style="vertical-align:top; margin:4px">&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook" height="40" style="vertical-align:top; margin:4px">&nbsp;
 </p>
-<br>
 
 ### OS, Software tools and Customization tools I use:
 <p align="left">
@@ -52,8 +48,6 @@ I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into M
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">&nbsp;
 </p>
-<br>
-
 
 ### My Github Stats:
 <div>
@@ -64,8 +58,6 @@ I am Sehej Bakshi, a BE CSE student at Army Institute of Technology who's into M
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=SehejBakshi&layout=compact&hide=php&theme=tokyonight" />
 </a>
 </div>
-
-
 
 [linkedin]: https://www.linkedin.com/in/sehej-bakshi-35318a173/
 [mail]: mailto:sehej.bakshi@yahoo.in
